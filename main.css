@@ -1,0 +1,177 @@
+
+html {
+	background-color:#5a5c51;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color: #1d2120;
+}
+
+header {
+	width: 50%;
+	background-color: #ba9077;
+	margin: auto;
+	margin-bottom: 10px;
+	padding: 1px;
+	border-bottom: 2px solid #ba9077;
+}
+
+.header_title {
+	padding-left: 5%;
+}
+
+.container {
+	width: 50%;
+	background-color: white;
+	margin: 0 auto;
+	padding: 1px;
+	border-left: 2px solid #ba9077;
+	border-right: 2px solid #ba9077;
+	margin-bottom: 10px;
+}
+
+.container h1 {
+	text-align: center;
+	padding: 5%;
+	font-size: 26px;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+.container h2 {
+	text-align: right;
+	padding: 5%;
+	font-size: 18px;
+	margin-top: 5px;
+	padding-bottom: 10px;
+}
+
+
+.center_button {
+	margin-left: 30%;
+}
+
+.button {
+	background-color: #bcd5d1;
+	color: #1d2120;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px;
+	text-decoration: none;
+	border-radius: 2px;
+	margin-right: 40px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+.button:hover {
+	background-color: #96aaa7;
+}
+
+.table_button {
+	background-color: #bcd5d1;
+	color: #1d2120;
+	padding: 5px 10px;
+	text-align: center;
+	display: inline-block;
+	font-size: 14px;
+	text-decoration: none;
+	border-radius: 2px;
+	margin-right: 4px;
+	margin-top: 2px;
+	margin-bottom: 5px;
+}
+
+.add {
+    width: 10%;
+	background-color: #bcd5d1;
+	color: #1d2120;
+	padding: 5px 10px;
+	text-align: center;
+	display: inline-block;
+	font-size: 14px;
+	text-decoration: none;
+	border-radius: 2px;
+	margin-right: 4px;
+	margin-top: 2px;
+	margin-bottom: 10px;
+    margin-left: 5%;
+    text-decoration: none;
+    text-align: center;
+}
+
+.table_button:hover {
+	background-color: #96aaa7;
+}
+
+.go-back {
+	margin-left: 45%;
+}
+
+body p{
+    font-size: 16px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-left: 28%;
+    display: inline;
+    font-weight:bold;
+    font-style: italic;
+
+}
+
+input[type=text], input[type=number], input[type=date], select{
+    width: 42%;
+    font-size: 16px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-left: 30%;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.register {
+    width: 42%;
+    background-color: #bcd5d1;
+    font-size: 16px;
+    color: #1d2120;
+    padding: 14px 20px;
+    margin: 8px 0;
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-bottom: 30px;
+    border: none;
+    border-radius: 2px;
+}
+
+input[type=submit]:hover {
+    background-color: #96aaa7;
+}
+
+table {
+	width: 90%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+td, th {
+    border: 1px dashed black;
+    padding: .2em .5em .2em .5em;
+    text-align: left;
+}
+
+footer {
+	width: 50%;
+	background-color: #ba9077;
+	margin: auto;
+	margin-bottom: 10px;
+	padding: 1px;
+	border-bottom: 2px solid #ba9077;
+}
+footer h3 {
+	text-align: right;
+	padding-right: 5%;
+}
+
